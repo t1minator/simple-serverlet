@@ -1,5 +1,5 @@
 <%@ page import="java.util.Calendar" %>
-<%@ page import="com.mantiso.User" %>
+<%@ page import="com.serverletdemo.User" %>
 <!DOCTYPE html>
 <html>
 <head>
