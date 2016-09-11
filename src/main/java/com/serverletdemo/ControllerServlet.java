@@ -1,4 +1,4 @@
-package com.mantiso;
+package com.serverletdemo;
 
 import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;
@@ -17,8 +17,8 @@ public class ControllerServlet extends HttpServlet {
 
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         User user = new User();
-        user.setName("Kevin");
-        user.setEmail("kevinj@mantiso.com");
+        user.setName("Tim");
+        user.setEmail("tim@vagrantcoder.com");
 
         RequestDispatcher dispatcher = getServletContext().getRequestDispatcher("/WEB-INF/index.jsp");
         request.setAttribute("user", user);

@@ -10,7 +10,7 @@
     </context-param>
     <servlet>
         <servlet-name>SimpleServlet</servlet-name>
-        <servlet-class>com.mantiso.SimpleServlet</servlet-class>
+        <servlet-class>com.serverletdemo.SimpleServlet</servlet-class>
         <init-param>
             <param-name>ProductName</param-name>
             <param-value>Yet Another Product Name</param-value>
@@ -18,7 +18,7 @@
     </servlet>
     <servlet>
         <servlet-name>ControllerServlet</servlet-name>
-        <servlet-class>com.mantiso.ControllerServlet</servlet-class>
+        <servlet-class>com.serverletdemo.ControllerServlet</servlet-class>
     </servlet>
 
 
@@ -29,7 +29,7 @@
 
     <servlet-mapping>
         <servlet-name>ControllerServlet</servlet-name>
-        <url-pattern>*.do</url-pattern>
+        <url-pattern>/</url-pattern>
     </servlet-mapping>
     
     <error-page>

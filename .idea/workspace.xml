@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/main/java/com/mantiso/SimpleServlet.java" line="26" />
-    <bookmark url="file://$PROJECT_DIR$/src/main/java/com/mantiso/SimpleServlet.java" line="19" />
+    <bookmark url="file://$PROJECT_DIR$/src/main/java/com/serverletdemo/SimpleServlet.java" line="26" />
+    <bookmark url="file://$PROJECT_DIR$/src/main/java/com/serverletdemo/SimpleServlet.java" line="19" />
     <bookmark url="file://C:/home/kevinj/dev/apache-tomcat-7.0.47/work/Catalina/localhost/simple/org/apache/jsp/index_jsp.java" line="69" />
   </component>
   <component name="ChangeListManager">
@@ -97,7 +97,7 @@
         </entry>
       </file>
       <file leaf-file-name="SimpleServlet.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/mantiso/SimpleServlet.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/serverletdemo/SimpleServlet.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="41" column="38" selection-start="1593" selection-end="1593" vertical-scroll-proportion="0.0" vertical-offset="157" max-vertical-offset="765">
               <folding>
@@ -108,7 +108,7 @@
         </entry>
       </file>
       <file leaf-file-name="ControllerServlet.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/mantiso/ControllerServlet.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/serverletdemo/ControllerServlet.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="22" column="90" selection-start="797" selection-end="797" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
               <folding />
@@ -117,7 +117,7 @@
         </entry>
       </file>
       <file leaf-file-name="User.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/mantiso/User.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/serverletdemo/User.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="10" column="22" selection-start="176" selection-end="176" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
               <folding />
@@ -144,20 +144,20 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/mantiso/BlogController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/serverletdemo/BlogController.java" />
         <option value="C:/home/kevinj/dev/tomcat/conf/tomcat-users.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/mantiso/SimpleBlog.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/serverletdemo/SimpleBlog.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/index.html" />
         <option value="C:/home/kevinj/dev/apache-tomcat-7.0.47/logs/catalina.2014-01-15.log" />
         <option value="$PROJECT_DIR$/src/main/webapp/_header.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/errorpage.jsp" />
-        <option value="$PROJECT_DIR$/src/main/java/com/mantiso/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/serverletdemo/User.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/mantiso/SimpleServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/serverletdemo/SimpleServlet.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/errorpage.jsp" />
-        <option value="$PROJECT_DIR$/src/main/java/com/mantiso/ControllerServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/serverletdemo/ControllerServlet.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/index.jsp" />
       </list>
     </option>
@@ -403,7 +403,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="mantiso" />
+              <option name="myItemId" value="serverletdemo" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -896,7 +896,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mantiso/SimpleServlet.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/serverletdemo/SimpleServlet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="18" column="38" selection-start="684" selection-end="684" vertical-scroll-proportion="0.0" vertical-offset="53" max-vertical-offset="765">
           <folding>
@@ -926,7 +926,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mantiso/SimpleServlet.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/serverletdemo/SimpleServlet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="32" selection-start="522" selection-end="522" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="360">
           <folding>
@@ -949,7 +949,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mantiso/SimpleServlet.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/serverletdemo/SimpleServlet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="0" selection-start="267" selection-end="288" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="360">
           <folding>
@@ -965,7 +965,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mantiso/SimpleServlet.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/serverletdemo/SimpleServlet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="44" selection-start="106" selection-end="106" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
           <folding>
@@ -1175,7 +1175,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mantiso/User.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/serverletdemo/User.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="22" selection-start="176" selection-end="176" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
           <folding />
@@ -1220,15 +1220,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="uml://JAVA/com.mantiso.SimpleServlet">
+    <entry file="uml://JAVA/com.serverletdemo.SimpleServlet">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
           <ID>JAVA</ID>
-          <OriginalElement>com.mantiso.SimpleServlet</OriginalElement>
+          <OriginalElement>com.serverletdemo.SimpleServlet</OriginalElement>
           <nodes>
             <node x="" y="">javax.servlet.http.HttpServlet</node>
             <node x="" y="">javax.servlet.GenericServlet</node>
-            <node x="" y="">com.mantiso.SimpleServlet</node>
+            <node x="" y="">com.serverletdemo.SimpleServlet</node>
             <node x="" y="">javax.servlet.Servlet</node>
             <node x="" y="">javax.servlet.ServletConfig</node>
             <node x="" y="">java.io.Serializable</node>
@@ -1260,7 +1260,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mantiso/SimpleServlet.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/serverletdemo/SimpleServlet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="41" column="38" selection-start="1593" selection-end="1593" vertical-scroll-proportion="0.0" vertical-offset="292" max-vertical-offset="765">
           <folding>
@@ -1276,7 +1276,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mantiso/ControllerServlet.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/serverletdemo/ControllerServlet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="22" column="90" selection-start="797" selection-end="797" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
           <folding />

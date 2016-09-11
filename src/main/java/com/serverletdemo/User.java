@@ -1,4 +1,4 @@
-package com.mantiso;
+package com.serverletdemo;
 
 public class User {
     private String _name;

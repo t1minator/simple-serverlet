@@ -1,4 +1,4 @@
-package com.mantiso;
+package com.serverletdemo;
 
 import javax.jws.soap.InitParam;
 import javax.servlet.ServletException;
